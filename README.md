@@ -8,10 +8,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VnX-SolidSnake&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
-
-<a href="https://github.com/VnX-SolidSnake/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VnX-SolidSnake&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/VnX-SolidSnake/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VnX-SolidSnake&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
